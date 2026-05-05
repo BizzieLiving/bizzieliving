@@ -88,7 +88,7 @@ I write about AI, creative production, and the realities of building independent
 
 | Platform | Link |
 |---|---|
-| 💼 LinkedIn | [linkedin.com/in/stephanieelie](https://www.linkedin.com/in/stephanieelie) *(update with your actual URL)* |
+| 💼 LinkedIn | [linkedin.com/in/stephanieelie](https://www.linkedin.com/in/stephanieelie) |
 | 🌐 Bizzie Media Group | [bizziemediagroup.com](https://bizziemediagroup.com) |
 | 🎙️ Alpha 8 | [alpha8audio.com](https://alpha8audio.com) |
 | 🎧 TunedIn Audio | [tunedinAudio.com](https://tunedinAudio.com) |
