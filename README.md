@@ -76,6 +76,28 @@ A web app I created for the audio drama and fiction podcast community.
 
 ---
 
+### Alpha 8 Analytics Dashboard
+A custom analytics dashboard built to track performance metrics for the Alpha 8 audio drama.
+
+🌐 [alpha8dashboard.lovable.app](https://alpha8dashboard.lovable.app)
+
+---
+
+### 🚧 In Progress
+
+**Podcast Ad Rate Calculator**
+A tool to help independent podcast creators calculate competitive, data-informed advertising rates.
+
+**SponsorFlow CRM**
+A CRM built specifically for podcast sponsorship workflows.
+
+🌐 [sponsorshipflowcrm.lovable.app](https://sponsorshipflowcrm.lovable.app)
+
+**Audio Drama Script Breakdown**
+A tool for breaking down audio drama scripts for production planning.
+
+---
+
 ## ✍️ Writing & Thinking
 
 I write about AI, creative production, and the realities of building independently — including the imposter syndrome, the wins, and everything in between.
